@@ -1,0 +1,7 @@
+﻿INSERT INTO [dbo].[Compte] ([Id], [num], [solde], [idClient]) VALUES (1, 123, CAST(10000.00 AS Decimal(8, 2)), 1)
+INSERT INTO [dbo].[Compte] ([Id], [num], [solde], [idClient]) VALUES (2, 125, CAST(12000.00 AS Decimal(8, 2)), 1)
+INSERT INTO [dbo].[Compte] ([Id], [num], [solde], [idClient]) VALUES (3, 147, CAST(14000.00 AS Decimal(8, 2)), 1)
+INSERT INTO [dbo].[Compte] ([Id], [num], [solde], [idClient]) VALUES (4, 120, CAST(1200.00 AS Decimal(8, 2)), 2)
+INSERT INTO [dbo].[Compte] ([Id], [num], [solde], [idClient]) VALUES (5, 19, CAST(12000.00 AS Decimal(8, 2)), 2)
+INSERT INTO [dbo].[Compte] ([Id], [num], [solde], [idClient]) VALUES (6, 1789, CAST(18850.00 AS Decimal(8, 2)), 3)
+INSERT INTO [dbo].[Compte] ([Id], [num], [solde], [idClient]) VALUES (7, 5478, CAST(14777.00 AS Decimal(8, 2)), 3)
